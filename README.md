@@ -1,4 +1,5 @@
 # Results summary component
+> README en espanol: ./ES-README.md
 
 This is a solution to the [Results summary component challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/results-summary-component-CE_K6s0maV).
 
@@ -13,5 +14,5 @@ This is a solution to the [Results summary component challenge on Frontend Mento
 ### Built with
 
 - Semantic HTML5 markup
-- Flexbox
 - CSS Grid
+- Vite
