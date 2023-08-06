@@ -32,7 +32,6 @@ article.score-summary{
   /* Box Style */
   width: min(40rem, 100vw);
   box-shadow: 4px 11px 24px 0px hsl(221, 100%, 92%);
-  border-radius: 2rem;
 
   /* Smartphones (portrait) */
   @media only screen and (max-width: 480px) {
@@ -48,6 +47,9 @@ article.score-summary{
 
   // Smartphones (landscape) / Desktop
   @media only screen and (min-width: 480px) {
+    /* Box Style */
+    border-radius: 2rem;
+
     /* Layout Model */
     grid-template-columns:
       1fr 1fr;
