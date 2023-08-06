@@ -17,4 +17,3 @@
 .obsidian
 node_modules
 yarn.lock
-**/dist
