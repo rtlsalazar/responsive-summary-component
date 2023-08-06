@@ -35,7 +35,7 @@ article.score-summary{
   border-radius: 2rem;
 
   /* Smartphones (portrait) */
-  @media only screen and (max-width: 375px) {
+  @media only screen and (max-width: 480px) {
     /* Layout Model */
     grid-template-rows:
       0.9fr
@@ -47,7 +47,7 @@ article.score-summary{
   }
 
   // Smartphones (landscape) / Desktop
-  @media only screen and (min-width: 375px) {
+  @media only screen and (min-width: 480px) {
     /* Layout Model */
     grid-template-columns:
       1fr 1fr;
@@ -74,12 +74,12 @@ section.graphic {
   padding: 2.7rem;
 
   /* Smartphones and tablets (portrait) */
-  @media only screen and (max-width: 375px) {
+  @media only screen and (max-width: 480px) {
     border-radius: 0rem 0rem 2rem 2rem;
   }
 
   // Smartphones (landscape) / Desktop
-  @media only screen and (min-width: 375px) {
+  @media only screen and (min-width: 480px) {
     border-radius: 2rem;
   }
 }

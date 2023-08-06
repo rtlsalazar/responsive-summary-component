@@ -11,6 +11,9 @@ Esta es una solución al challenge de Frontend Mentor
 - Vite
 
 ### Captura de pantalla
-
+#### Desktop
 ![Desktop Preview](./Screenshot_desktop.png)
+
+#### Mobile
+![Mobile Preview](./Screenshot_mobile.png)
 
