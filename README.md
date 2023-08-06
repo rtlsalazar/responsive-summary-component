@@ -6,7 +6,6 @@ This is a solution to the Results summary component challenge on Frontend Mentor
 - [Live Site URL](https://rtlsalazar.github.io/responsive-summary-component/dist/index.html)
 
 ### Built with
-
 - Semantic HTML5 markup
 - CSS Grid
 - Vite
